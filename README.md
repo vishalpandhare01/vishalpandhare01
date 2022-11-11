@@ -1,16 +1,26 @@
 ### Hi there 👋 i am vishal
+On a way to be a SOFTWARE DEVELOPER ENGINEER and I'm very passionate about coding and building new things
 
-<!--
-**vishalpandhare01/vishalpandhare01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ ![image title](https://rushter.com/counter.svg)
 
-Here are some ideas to get you started:
+- 🌍  I'm from Maharashtra, India
+- 🖥️  See my portfolio at vishal pandhare
+- ✉️  You can contact me at vishalpandhare2016@gmail.com
+- 🧠  I'm learning Backend Development
+- 🤝  I'm open to collaborating on Interesting and challenging projects
+- ⚡  I love to watch anime and especially Sci-Fi genre
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## skills
+### Frontend
+- Javascript
+- Html
+- Css
+### Backend
+- Nodejs
+- MongoDb
+- express
+### Programing languge
+- Python
+- Sql
+## Projects
+pending.........!
