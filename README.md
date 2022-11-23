@@ -1,4 +1,4 @@
-### Hi there 👋 i am vishal
+### Hi there👋i am vishal
 On a way to be a SOFTWARE DEVELOPER ENGINEER and I'm very passionate about coding and building new things
 
  ![image title](https://rushter.com/counter.svg)
