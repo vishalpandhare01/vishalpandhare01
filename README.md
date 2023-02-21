@@ -15,7 +15,7 @@ On a way to be a SOFTWARE DEVELOPER ENGINEER and I'm very passionate about codin
 - 🧠  I'm learning Backend Development                                                             
 - 🤝  I'm open to collaborating on Interesting and challenging projects
 - ⚡  I love to watch anime and especially Sci-Fi genre          
- <img float = "rigth" src="https://camo.githubusercontent.com/c2936194df62114ed0c0e6c4bc5923016d4b6098fa2ba7d172813aa9b9d7c2ca/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f323233383034312f73637265656e73686f74732f343736333931382f776f726b696e672e676966" width="400" />
+ <img float = "right" src="https://camo.githubusercontent.com/c2936194df62114ed0c0e6c4bc5923016d4b6098fa2ba7d172813aa9b9d7c2ca/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f323233383034312f73637265656e73686f74732f343736333931382f776f726b696e672e676966" width="400" />
 
 
 
