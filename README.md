@@ -9,10 +9,10 @@
 
 ###  About Me
 
-- 🌍  I'm from Maharashtra, India
+- 🌍  I'm from India
 - 🖥️  See my portfolio at https://vishal-pandhare.vercel.app/                               
 - ✉️  You can contact me at vishalpandhare2016@gmail.com
-- 🧠  I'm software developer                                                          
+- 🧠  I'm Software Developer + Mechanical Engineer                                                  
 - 🤝  I'm open to collaborating on Interesting and challenging projects
 - ⚡  I love to watch anime and especially Sci-Fi genre          
 
