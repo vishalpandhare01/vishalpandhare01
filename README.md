@@ -2,7 +2,6 @@
 
 
 
- ![image title](https://i.pinimg.com/originals/f9/21/88/f921885903c54c104c270a275bbc62bf.gif)
 
 
  ![image title](https://rushter.com/counter.svg)
