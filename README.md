@@ -8,9 +8,7 @@
 
 ###  About Me
 
-- 🌍  I'm from India                      
-- ✉️  You can contact me at vishalpandhare2016@gmail.com
-- 🧠  I'm Software Developer + Mechanical Engineer                                                  
+- 🌍  I'm from India                     
 - 🤝  I'm open to collaborating on Interesting and challenging projects
 - ⚡  I love to watch anime and especially Sci-Fi genre          
 
